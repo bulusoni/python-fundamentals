@@ -83,6 +83,7 @@ l2 = [10, 11, 12]
 d = zip(l1, l2)
 print(d)
 
+####### Find all even numbers in the array #######
 
 lst = [1, 2, 3, 4, 5, 6]
 evenList = []
